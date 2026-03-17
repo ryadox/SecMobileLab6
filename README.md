@@ -1,4 +1,4 @@
-<img width="1391" height="875" alt="image" src="https://github.com/user-attachments/assets/5d615645-1791-49a0-a850-1aae9b1c7096" /># SecMobileLab6
+SecMobileLab6
 
 LAB 6 :: Analyse statique d'un APK avec MobSF dans la VM Mobexler 
 
